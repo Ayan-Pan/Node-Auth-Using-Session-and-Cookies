@@ -1,3 +1,3 @@
 {
-  "mongoURI": "mongodb+srv://AyanPan:PFSA6X5lFswJloE3@test-cluster1.10mqm.mongodb.net/sessions?retryWrites=true&w=majority"
+  "mongoURI": <your_db>
 }
